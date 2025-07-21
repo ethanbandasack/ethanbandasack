@@ -11,7 +11,7 @@
 ## 🎓 **Education & Experience**
 **MEng** @ [CentraleSupélec](https://www.centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) \
 General Engineering, focus on Applied Mathematics \
-`🏆 [ARWU](https://www.shanghairanking.com/rankings/arwu/2024) Global Rank #12`
+`🏆 ARWU Global Rank #12`
 
 **ML R&D Engineer** @ [Paris Digital Lab](https://parisdigitallab.com/) \
 Led cross-functional projects and delivered 3 MVPs for companies in agile teams \
