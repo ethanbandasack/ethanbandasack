@@ -11,13 +11,13 @@
 ## 🎓 **Education & Experience**
 **MEng** @ [CentraleSupélec](https://www.centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) \
 General Engineering, focus on Applied Mathematics \
-`🏆 ARWU Global Rank #12`
+`🏆 [ARWU](https://www.shanghairanking.com/rankings/arwu/2024) Global Rank #12`
 
 **ML R&D Engineer** @ [Paris Digital Lab](https://parisdigitallab.com/) \
 Led cross-functional projects and delivered 3 MVPs for companies in agile teams \
 `Machine Learning` `Data Science` `Cybersecurity` `Full-Stack Development` 
 
-🥫 **Moleculis** @ [CEA (French Alternative Energies and Atomic Energy Commission)](https://cea.fr/en/) \
+🥫 **Moleculis** @ [CEA (French Alternative Energies and Atomic Energy Commission)](https://www.cea.fr/en/) \
 Developed a [Mol*](https://github.com/molstar/molstar) wrapper to visualize quantum-computed interactions between complex structures \
 `TypeScript` `ReactJS` `NextJS`  
 
