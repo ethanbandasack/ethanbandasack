@@ -29,13 +29,6 @@ Built starch alternative recommender system \
 Implemented fully homomorphic encryption prototypes \
 `Microsoft SEAL` `Mathematical Research`
 
-## 🌍 **Mission-Driven Code**
-```python
-def innovate():
-    while problem in societal_challenges:
-        solution = research() + engineer() + collaborate()
-        deploy(solution)
-```
 ---
 📬 Feel free to contact me! \
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ethanbandasack/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethan.bandasack@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ethanbandasack)
