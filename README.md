@@ -25,7 +25,7 @@ Developed a [Mol*](https://github.com/molstar/molstar) wrapper to visualize quan
 Built starch alternative recommender system \
 `Python` `ML Pipelines` `Streamlit Frontend`  
 
-🔐 **Secure Banking** @ [BPCE Group](https://www.groupebpce.com/en/homepage-2/) \
+🔐 [**Secure Banking**](https://github.com/maloleroy/fhe-bpce) @ [BPCE Group](https://www.groupebpce.com/en/homepage-2/) \
 Implemented fully homomorphic encryption prototypes \
 `Microsoft SEAL` `Mathematical Research`
 
