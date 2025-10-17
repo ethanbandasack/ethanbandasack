@@ -3,7 +3,7 @@
 **ML Engineer & Impact-Driven Innovator** \
 *Turning complex algorithms into tools for healthier, equitable futures*
 
-🙋‍♂️ Hi! I’m Ethan, a Master of Engineering student at CentraleSupélec and ML R&D Engineer at Paris Digital Lab, seeking a 6-month R&D internship in Machine Learning or Data Science (starting Aug/Sep 2025).
+🙋‍♂️ Hi! I’m Ethan, a Master of Engineering student at CentraleSupélec and AI Research Intern at Scienta Lab, seeking a 6-month research internship in Machine Learning or BioAI (starting Feb 2026).
 
 **Domains**: Healthcare ML • Image Processing \
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
