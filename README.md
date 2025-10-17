@@ -5,13 +5,17 @@
 
 🙋‍♂️ Hi! I’m Ethan, a Master of Engineering student at CentraleSupélec and ML R&D Engineer at Paris Digital Lab, seeking a 6-month R&D internship in Machine Learning or Data Science (starting Aug/Sep 2025).
 
-**Domains**: Healthcare ML • Computational Biology • Image Processing \
+**Domains**: Healthcare ML • Image Processing \
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ## 🎓 **Education & Experience**
+**AI Research Internship** @ [Scienta Lab](https://www.scientalab.com/) \
+Designed and implemented transformers architectures for medical imaging, validating improvements through ablation studies. \
+`Computer Vision` `Visual Transformers` `PyTorch` `Benchmark` `Clean code`
+
 **MEng** @ [CentraleSupélec](https://www.centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) \
 General Engineering, focus on Applied Mathematics \
-`🏆 ARWU Global Rank #12`
+`🏆 ARWU Global Rank #13`
 
 **ML R&D Engineer** @ [Paris Digital Lab](https://parisdigitallab.com/) \
 Led cross-functional projects and delivered 3 MVPs for companies in agile teams \
