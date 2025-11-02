@@ -21,7 +21,7 @@ General Engineering, focus on Applied Mathematics \
 Led cross-functional projects and delivered 3 MVPs for companies in agile teams \
 `Machine Learning` `Data Science` `Cybersecurity` `Full-Stack Development` 
 
-🥫 **Moleculis** @ [CEA (French Alternative Energies and Atomic Energy Commission)](https://www.cea.fr/en/) \
+⚛️ **Moleculis** @ [CEA (French Alternative Energies and Atomic Energy Commission)](https://www.cea.fr/en/) \
 Developed a [Mol*](https://github.com/molstar/molstar) wrapper to visualize quantum-computed interactions between complex structures \
 `TypeScript` `ReactJS` `NextJS`  
 
