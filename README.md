@@ -1,17 +1,21 @@
-
 # Hello world 👋
 **ML Engineer & Impact-Driven Innovator** \
 *Turning complex algorithms into tools for healthier, equitable futures*
 
-🙋‍♂️ Hi! I’m Ethan, a Master of Engineering student at CentraleSupélec and AI Research Intern at Scienta Lab, seeking a 6-month research internship in Machine Learning or BioAI (starting Feb 2026).
+🙋‍♂️ Hi! I’m Ethan, a Master of Engineering student at CentraleSupélec and Visiting Student at Bunne Lab (EPFL), open to opportunities in Machine Learning or BioAI from Q2 2027.
 
 **Domains**: Healthcare ML • Image Processing \
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792ee5?logo=lightning&logoColor=white)
 
 ## 🎓 **Education & Experience**
+
+📑 **Visiting Student** @ [Bunne Lab - AI for Molecular Medicine (EPFL)](https://aimm.epfl.ch/) \
+Developing marker-aware foundation models for digital pathology, leveraging Swiss clinical data and open data to improve IHC image analysis for real-world oncology. \
+`Foundation Models` `Digital Pathology` `Representation Learning` `Oncology` `Run:AI`
+
 🧬 **AI Research Internship** @ [Scienta Lab](https://www.scientalab.com/) \
-Designed and implemented transformers architectures for medical imaging, validating improvements through ablation studies. \
-`Computer Vision` `Visual Transformers` `PyTorch` `Benchmark` `Clean code`
+Engineered EVA-H, an immunology-focused Vision Transformer trained on 20M+ tissue tiles. Built self-supervised (iBOT) and weakly-supervised (MIL) pipelines with LoRA. \
+`Vision Transformers` `Computer Vision` `Foundation Models` `Self-Supervised Learning` `PyTorch`
 
 📚 **MEng** @ [CentraleSupélec](https://www.centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) \
 General Engineering, focus on Applied Mathematics \
